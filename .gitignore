@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.DS_Store
+brain-tumor-mri-dataset/
+.ipynb_checkpoints/
